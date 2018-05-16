@@ -1,3 +1,5 @@
+// No need to say 'I can do it.' You ARE doing it!
+
 // Life is psychologically difficult for everybody.
 
 // You're good enough, you're smart enough, and doggone it, people like you.
