@@ -1,3 +1,5 @@
+// Life is psychologically difficult for everybody.
+
 // I believe in you. You can do the thing!
 
 // You're good enough, you're smart enough, and doggone it, people like you.
